@@ -2,5 +2,8 @@
   "dependencies": {
     "react-color": "^2.19.3",
     "react-google-charts": "^4.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
